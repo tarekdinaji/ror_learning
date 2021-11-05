@@ -7,7 +7,7 @@
 # Create a project
 # To create a project use the following command
 #.. Use the cd command to navigate to the folder then
-#.. <rails new simple_cms -d mysql> 
+#.. <rails new simple_cms -d postgresql>  (use mysql if you want to use mysql)
 #.. The "simple_cms" is the project name
-#.. the "-d mysql" part is mandatory
+#.. the "-d postgresql" part is mandatory
 
